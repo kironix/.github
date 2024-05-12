@@ -15,7 +15,7 @@ class Bio extends Kironix {
 
 class Description extends SoftwareCompany {
   description = 'Kironix is a software development 
-                 company that specializes in creating custom 
+                 platform that specializes in creating custom 
                  software applications tailored specifically to 
                  fit your business needs.';
 }
