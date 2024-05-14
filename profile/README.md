@@ -8,7 +8,7 @@ import { kironix } from 'kironix';
 
 class Bio extends Kironix {
   name     = 'Kironix';
-  title    = 'Startup Company | Remote';
+  title    = 'Remote';
   location = 'Bangladesh';
   goal     = 'Inventing better future';
 }
@@ -20,7 +20,7 @@ class Description extends SoftwareCompany {
                  fit your business needs.';
 }
 
-class Skills extends SoftwareCompany {
+class Skills extends SoftwarePlatform {
   languages  = ['JavaScript', 'Python', 'Typescript'];
   databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
   frameworks = ['ReactJS', 'React Native', 'NextJS'];
