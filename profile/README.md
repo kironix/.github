@@ -13,7 +13,7 @@ class Bio extends Kironix {
   goal     = 'Inventing better future';
 }
 
-class Description extends SoftwareCompany {
+class Description extends SoftwarePlatform {
   description = 'Kironix is a software development 
                  platform that specializes in creating custom 
                  software applications tailored specifically to 
